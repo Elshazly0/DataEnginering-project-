@@ -6,7 +6,9 @@ The dataset is covering the history of the
 
 Olympic Games, from Athens in 1896 through Rio in
 
-\2016.
+2016.
+
+
 
 **Overview the Project Goal**
 
@@ -22,6 +24,8 @@ data engineering process:
 
 ➢Handling outliers & missing values
 
+
+
 **Steps of work done**
 
 ● We explored the dataset features
@@ -34,45 +38,31 @@ data engineering process:
 
 ● We started cleaning the data by:
 
-○ Reducing the dimensionality of the data
+    ○ Reducing the dimensionality of the data
 
-○ Identifying outliers
+    ○ Identifying outliers
 
+    ○ Handling the missing values by placing
 
+    them with mean/median of some specific
 
-
-
-○ Handling the missing values by placing
-
-them with mean/median of some specific
-
-data
+    data
 
 ● Then we started plotting the data by finding
 
 the best visual to presentation
 
+
+
 **Data Exploration Questions/RQ**
 
-Women participation & performance in the
+1. Women participation & performance in the Olympic games over time
 
-Olympic games over time
+2.The correlation between the countries and a specific sport
 
-The correlation between the countries and a
+3.Participation/evolution of each sport over time
 
-specific sport
+4.How the age of the participants differs over time
 
-Participation/evolution of each sport over
-
-time
-
-How the age of the participants differs over
-
-time
-
-How many summer and winter season of the
-
-Olympic games in comparison, and how the
-
-number of participants changed
+5.How many summer and winter season of the Olympic games in comparison, and how the number of participants changed
 
