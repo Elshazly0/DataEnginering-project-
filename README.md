@@ -66,3 +66,18 @@ the best visual to presentation
 
 5.How many summer and winter season of the Olympic games in comparison, and how the number of participants changed
 
+6.The number of medals for atheletes grouped by country
+
+
+**Milestone 2 new dataset**
+Removing the athletes with no medals ana keeping only the ones 
+with medals and merging the medals.xlsx file so that each
+athlete included the medals that his/her team won for each year
+
+
+**Milestone 2 new features**
+
+1. One hot encoding on the medals column so that the type of medal could be visualized easily and change categorical data to numeric
+2. Discretize the age attribute into young, middle aged, and old so that future applications could be applied easily when focusing on a certain range of ages.
+
+
