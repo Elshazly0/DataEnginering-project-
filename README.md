@@ -58,7 +58,7 @@ the best visual to presentation
 
 1. Women participation & performance in the Olympic games over time
 
-2.The correlation between the countries and a specific sport
+2. What is the count of young, middle aged, and old atheletes
 
 3.Participation/evolution of each sport over time
 
